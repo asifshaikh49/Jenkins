@@ -57,6 +57,7 @@ These notes are perfect for interviews, real-world DevOps projects, and masterin
 # Create a Freestyle Job in Jenkins
 # Configure it to Poll SCM every minute: */1 * * * *
 # Observe automatic build pipeline in action
+---
 
 # 💻 2. Jenkins Setup on VM 🖥️
 
