@@ -1,7 +1,7 @@
 
 # 🚀 Jenkins CI/CD - Ultimate Deep Dive Notes by Asif Shaikh
 
-Welcome to the most detailed Jenkins & CI/CD learning guide.  
+Welcome to the Jenkins & CI/CD learning guide.  
 These notes are perfect for interviews, real-world DevOps projects, and mastering pipelines like a pro. 💡🛠️
 
 ---
