@@ -58,8 +58,7 @@ These notes are perfect for interviews, real-world DevOps projects, and masterin
 # Configure it to Poll SCM every minute: */1 * * * *
 # Observe automatic build pipeline in action
 
-
-## 💻 2. Jenkins Setup on VM 🖥️
+# 💻 2. Jenkins Setup on VM 🖥️
 
 ### ✅ Requirements:
 - Java JDK 11+ ☕
